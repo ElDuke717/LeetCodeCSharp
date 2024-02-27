@@ -1,0 +1,14 @@
+/Users/nickhuemmer/problems/LeetCodeCSharp/bin/Debug/net8.0/LeetCodeCSharp
+/Users/nickhuemmer/problems/LeetCodeCSharp/bin/Debug/net8.0/LeetCodeCSharp.deps.json
+/Users/nickhuemmer/problems/LeetCodeCSharp/bin/Debug/net8.0/LeetCodeCSharp.runtimeconfig.json
+/Users/nickhuemmer/problems/LeetCodeCSharp/bin/Debug/net8.0/LeetCodeCSharp.dll
+/Users/nickhuemmer/problems/LeetCodeCSharp/bin/Debug/net8.0/LeetCodeCSharp.pdb
+/Users/nickhuemmer/problems/LeetCodeCSharp/obj/Debug/net8.0/LeetCodeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickhuemmer/problems/LeetCodeCSharp/obj/Debug/net8.0/LeetCodeCSharp.AssemblyInfoInputs.cache
+/Users/nickhuemmer/problems/LeetCodeCSharp/obj/Debug/net8.0/LeetCodeCSharp.AssemblyInfo.cs
+/Users/nickhuemmer/problems/LeetCodeCSharp/obj/Debug/net8.0/LeetCodeCSharp.csproj.CoreCompileInputs.cache
+/Users/nickhuemmer/problems/LeetCodeCSharp/obj/Debug/net8.0/LeetCodeCSharp.dll
+/Users/nickhuemmer/problems/LeetCodeCSharp/obj/Debug/net8.0/refint/LeetCodeCSharp.dll
+/Users/nickhuemmer/problems/LeetCodeCSharp/obj/Debug/net8.0/LeetCodeCSharp.pdb
+/Users/nickhuemmer/problems/LeetCodeCSharp/obj/Debug/net8.0/LeetCodeCSharp.genruntimeconfig.cache
+/Users/nickhuemmer/problems/LeetCodeCSharp/obj/Debug/net8.0/ref/LeetCodeCSharp.dll

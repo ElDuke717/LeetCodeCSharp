@@ -12,3 +12,4 @@
 /Users/nickhuemmer/problems/LeetCodeCSharp/obj/Debug/net8.0/LeetCodeCSharp.pdb
 /Users/nickhuemmer/problems/LeetCodeCSharp/obj/Debug/net8.0/LeetCodeCSharp.genruntimeconfig.cache
 /Users/nickhuemmer/problems/LeetCodeCSharp/obj/Debug/net8.0/ref/LeetCodeCSharp.dll
+/Users/nickhuemmer/problems/LeetCodeCSharp/obj/Debug/net8.0/LeetCodeCSharp.sourcelink.json

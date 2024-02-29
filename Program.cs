@@ -12,6 +12,7 @@ namespace LeetCodeSolutions
             Rotate.Run();
             BestTimeToBuyAndSellStock.Run();
             MaxProfitII.Run();
+            JumpGame.Run();
         }
     }
 }

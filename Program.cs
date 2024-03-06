@@ -14,6 +14,7 @@ namespace LeetCodeSolutions
             MaxProfitII.Run();
             JumpGame.Run();
             JumpGameII.Run();
+            HIndex.Run();
         }
     }
 }

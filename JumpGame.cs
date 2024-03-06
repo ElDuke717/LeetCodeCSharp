@@ -8,11 +8,11 @@ namespace LeetCodeSolutions
         {
             int[] nums = { 2, 3, 1, 1, 4 };
             int[] nums2 = { 3, 2, 1, 0, 4};
-            Console.WriteLine($"The end of the array nums {(canJump(nums) ? "can" : "cannot")} be reached.");
-            Console.WriteLine($"The end of the array nums2 {(canJump(nums2) ? "can" : "cannot")} be reached.");
+            Console.WriteLine($"The end of the array nums {(CanJump(nums) ? "can" : "cannot")} be reached.");
+            Console.WriteLine($"The end of the array nums2 {(CanJump(nums2) ? "can" : "cannot")} be reached.");
         }
 
-        public static bool canJump(int[] nums)
+        public static bool CanJump(int[] nums)
         {
             int maxReach = 0; // The furthest we can reach
             int goal = nums.Length - 1; // Changed length to Length

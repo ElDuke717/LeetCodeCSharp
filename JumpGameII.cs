@@ -8,11 +8,11 @@ namespace LeetCodeSolutions
         {
             int[] nums = { 2, 3, 1, 1, 4 };
             int[] nums2 = { 3, 2, 1, 0, 4};
-            Console.WriteLine($"The steps to the end of the array nums is {(jumpGame(nums))}.");
-            Console.WriteLine($"The steps to the end of the array nums2 is {(jumpGame(nums2))}.");
+            Console.WriteLine($"The steps to the end of the array nums is {(JumpGame(nums))}.");
+            Console.WriteLine($"The steps to the end of the array nums2 is {(JumpGame(nums2))}.");
         }
 
-        public static int jumpGame(int[] nums) 
+        public static int JumpGame(int[] nums) 
         {
             if (nums.Length <= 1) return 0;
             int maxReach = nums[0]; // The furthest we can reach after the first jump

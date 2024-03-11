@@ -16,6 +16,7 @@ namespace LeetCodeSolutions
             JumpGameII.Run();
             HIndex.Run();
             InsertDeleteGetRandom.Run();
+            GasStation.Run();
         }
     }
 }

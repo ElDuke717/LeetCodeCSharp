@@ -6,7 +6,6 @@ namespace LeetCodeSolutions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Running Solution for TwoSum:");
             TwoSum.Run(); // static method Run in TwoSum.cs and others allows that executes the solution with example inputs
             RemoveDuplicates.Run();
             Rotate.Run();
@@ -17,6 +16,8 @@ namespace LeetCodeSolutions
             HIndex.Run();
             InsertDeleteGetRandom.Run();
             GasStation.Run();
+            LengthOfLastWord.Run();
+            LongestCommonPrefix.Run();
         }
     }
 }

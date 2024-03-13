@@ -23,7 +23,7 @@ namespace LeetCodeSolutions
 
             
             for ( int i = 0; i < citationArrays.Length; i++) {
-                Console.WriteLine($"The h-index of [{String.Join(", ", citationArrays[i])}] is {HIndexRank(citationArrays[i])}");
+                Console.WriteLine($"The h-index of { citationArrays[i]} is {HIndexRank(citationArrays[i])}");
             }
         }
         public static int HIndexRank(int[] citations)
